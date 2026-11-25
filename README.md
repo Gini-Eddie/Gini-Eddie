@@ -1,7 +1,7 @@
 
 # Hi, I'm Ginikachukwu Edward 👋
 
-### Junior Machine Learning Engineer | Optimization Engineering | AI Systems Development
+### Machine Learning Engineer | Optimization Engineering | AI Systems Development
 
 I am an early-career engineer with a background in Mechanical Engineering and a growing focus on Machine Learning, Optimization Engineering, and intelligent systems.
 
