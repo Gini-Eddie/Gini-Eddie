@@ -114,9 +114,9 @@ Contributing to research and engineering projects involving computational method
 
 I am open to meaningful conversations, research collaborations, engineering projects, and opportunities to learn and contribute.
 
-- **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/ginikachukwu-edward)
+- **LinkedIn:** [https://www.linkedin.com/in/ginikachukwu-edward](https://www.linkedin.com/in/ginikachukwu-edward)
 - **Email:** ginikachukwuedward@gmail.com
-- **Portfolio:** [Add your portfolio URL]([#](https://ginikachukwuedward.vercel.app/))
+- **Portfolio:** [https://ginikachukwuedward.vercel.app/](https://ginikachukwuedward.vercel.app/)
 
 ---
 
